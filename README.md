@@ -12,8 +12,7 @@
 - Linux
 
 ## 📌 Projects
-- Work In Progress!
-- (Have done academic projects, but im working on something that better shows my skills to publically display)
+- Developing a Package Routing Optimization System in Python!
 
 ## 📫 Contact
 - LinkedIn: www.linkedin.com/in/caleb-j-kirk
