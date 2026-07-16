@@ -1,6 +1,6 @@
 # Hi, I'm Caleb 👋
 
-🎓 Computer Science student at Western Governors University (Graduating May 2026)  
+🎓 Computer Science student at Western Governors University (Graduating August 2026)  
 💻 Aspiring Software Developer  
 🌱 Currently learning: Backend Development & Data Structures
 
